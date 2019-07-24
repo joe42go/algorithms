@@ -1,0 +1,29 @@
+1)
+- Making coffee:
+Pour coffee ground in a cup.
+Fill the kettle with water.
+Boil the water in the kettle.
+Pour some of the boiled water into the cup.
+Stir the cup
+
+- Washing dishes:
+Pick up dish soap
+Turn the water on the sink
+Fill the sink with dish soap
+Soak dirty dishes in the sink
+Take a sponge
+Scrub dirty dishes with the sponge
+Rinse the dishes
+Dry the dishes on the rack
+
+- Turning on the car engine:
+Pick up the car key
+Walk up to the door of the driver side front seat
+Slide the car key into a door key hole
+Turn the key and open the door
+Sit in the car
+Insert the car key into the key hole next to the steering wheel
+Turn the key to the right to start the engine
+
+2) Streaming service – i) Hulu: Offers exclusive content from network and cable TV; offers free streaming service with ads on ii) CBS All Access: Offers exclusive content from CBS station iii) Netflix: Proprietor of largest original content, less reliance on content generation from network and cable TV
+3) Algorithmic efficiency is a property of an algorithm which relates to the number of computational resources used by the algorithm. Hence, efficient algorithm is a comparative algorithm that fulfills the same goal as an inefficient algorithm in shorter finite amount of time by using lesser computer resources e.g. memory.
