@@ -1,0 +1,37 @@
+1)	Looking for the name ‘Smith’ starting from the first page of phonebook
+2)	Opening the phonebook to its middle and then compare ‘Smith’ to the found page and then depending whether it comes before or after ‘Smith’ alphabet, you open the middle page in the first or second half of the phone book.
+3)	7 iterations
+4)	3 iterations
+5)	Linear search since it would be not possible to find the ‘mid’ in an unsorted data set
+6)	Binary search since it would be more efficient than linear search for a sorted data set
+
+
+
+function binarySearch(arr,word) {
+  let high = arr.length-1;
+  let low = 0;
+  let mid =0 ;
+
+
+  while(low <= high) {
+  mid = Math.floor((high + low)/2)
+   if (arr[mid] === word){
+     return arr[mid];
+   } else if(word > arr[mid]) {
+       low = mid + 1;
+   } else {
+     high = mid - 1;
+   }
+  }
+  return "Could not be found";
+}
+
+
+
+function searchWhiteFish(arr,target){
+   for (var i=0; i<arr.length; i++){
+     if(arr[i] === target)
+       return "Found white-spotted fish";
+   }
+     return "Not found";
+}
